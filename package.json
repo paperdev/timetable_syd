@@ -10,6 +10,7 @@
   "dependencies": {
     "async": "latest",
     "moment": "latest",
-    "underscore": "latest"
+    "underscore": "latest",
+    "gtfs-realtime-bindings": "latest"
   }
 }
